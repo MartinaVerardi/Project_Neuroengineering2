@@ -30,11 +30,11 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Shady96/Project_Neuroengineering2">View Demo</a>
+    <a href="https://github.com/MartinaVerardi/Project_Neuroengineering2">View Demo</a>
     ·
-    <a href="https://github.com/Shady96/Project_Neuroengineering2/issues">Report Bug</a>
+    <a href="https://github.com/MartinaVerardi/Project_Neuroengineering2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Shady96/Project_Neuroengineering2/issues">Request Feature</a>
+    <a href="https://github.com/MartinaVerardi/Project_Neuroengineering2/issues">Request Feature</a>
   </p>
 </p>
 
@@ -57,7 +57,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -105,7 +104,7 @@ this project has been entirely made in [MATLAB](https://it.mathworks.com/?s_tid=
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Shady96/Project_Neuroengineering2/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/MartinaVerardi/Project_Neuroengineering2/issues) for a list of proposed features (and known issues).
 
 
 
@@ -132,9 +131,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Martina Verardi - [@Shady96](https://github.com/Shady96) - martina.verardi@gmail.com
+Martina Verardi - [@MartinaVerardi](https://github.com/MartinaVerardi) - martina.verardi@gmail.com
 
-Project Link: [https://github.com/Shady96/Project_Neuroengineering2](https://github.com/Shady96/Project_Neuroengineering2)
+Project Link: [https://github.com/MartinaVerardi/Project_Neuroengineering2](https://github.com/MartinaVerardi/Project_Neuroengineering2)
 
 
 
